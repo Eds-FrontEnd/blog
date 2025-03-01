@@ -5,6 +5,7 @@
 Este projeto foi desenvolvido com:
 
 - **🌐 React**
+- **⚙️ NEXT.js**
 - **🎨 Tailwind CSS**
 - **🔗 API RESTfull: [JSONPlaceholder](https://jsonplaceholder.typicode.com/) para testes e desenvolvimento**
 - **☀️🌒 Theme Switcher (ou Alternador de Tema)**
