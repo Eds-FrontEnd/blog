@@ -27,7 +27,12 @@ cd blog-noticias-main
 
 ### 2. Instalar as dependências e bibliotecas
 
-Instale as dependências necessárias do projeto utilizando **npm** e **yarn**:
+Instale as dependências necessárias do projeto utilizando **yarn** e **npm**:
+
+#### Com yarn:
+```bash
+yarn install
+```
 
 #### Com npm:
 ```bash
@@ -36,12 +41,7 @@ npm install -D tailwindcss
 
 ```bash
 npm install axios
-```
-
-#### Com yarn:
-```bash
-yarn install
-```
+``` 
 ### 3. Iniciar o servidor de desenvolvimento
 
 Execute o seguinte comando para rodar o projeto:
